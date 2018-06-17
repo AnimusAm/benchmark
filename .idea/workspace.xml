@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba69f43d-324f-46bd-84bf-92a3193f2f13" name="Default" comment="" />
+    <list default="true" id="3e5b1217-f470-4bf5-b5f4-2515695e41bf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DifferentAttempts_ear_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DifferentAttempts_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_2_16_5_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JPA_2_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JavaeeSecurity_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/benchmark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/benchmark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,25 +43,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AbstractAppender.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
+      <file leaf-file-name="AppenderBnchMrk.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayListBooleanAppender.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayListBooleanAppender.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="102">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,20 +64,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListBooleanAppender.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java">
+      <file leaf-file-name="SafeCast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="255">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomAbstractListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java">
+      <file leaf-file-name="SafeCastList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SafeCastArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,33 +98,31 @@
         </entry>
       </file>
       <file leaf-file-name="RandomArrayListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="153">
+              <caret line="17" column="73" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="RandomLinkedListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="153">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppenderBnchMrk.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
+      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            <state relative-caret-position="408">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,29 +130,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsoleTimer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/ConsoleTimer.java">
+      <file leaf-file-name="RandomAbstractListGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="38" />
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="RandomCollectionGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InvokableBenchmark.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -132,42 +158,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Appender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/impl/Appendable.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/Appendable.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/ListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/interfaces/Appendable.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/impl/AbstractAppender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/RandomListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/impl/RandomListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/GeneratiorInitailizator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/impl/RandomAbstractArrayListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/GeneratorInitData.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/inerfaces/Invokable.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/inerfaces/InvokableBenchMark.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/inerfaces/invokableBenchmark.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/AppEntry.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/impl/ArrayListAppender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/Generator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" />
-        <option value="$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/AppenderBnchMrk.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/inerfaces/InvokableBenchmark.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/benchmark/AppenderBnchMrk.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
-        <option value="$PROJECT_DIR$/src/hr/simlebacksmile/benchmark/ConsoleTimer.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/ConsoleTimer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/factory/RandomCollectionGeneratorFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/SafeCaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCastList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" />
       </list>
     </option>
   </component>
@@ -180,62 +197,159 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="20" />
+    <option name="x" value="604" />
+    <option name="y" value="54" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hr" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="abstr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="cast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="cast" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -243,8 +357,8 @@
               <item name="simlebacksmile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -253,8 +367,8 @@
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -264,19 +378,8 @@
               <item name="append" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="simlebacksmile" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="inerfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -284,8 +387,18 @@
               <item name="append" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="append" type="462c0819:PsiDirectoryNode" />
+              <item name="abstr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -294,44 +407,38 @@
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DifferentAttempts" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-lang3:3.1" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="DifferentAttempts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-lang3:3.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-lang3-3.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hr" type="462c0819:PsiDirectoryNode" />
+              <item name="append" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="hr.smilebacksmile.domain.append.util.impl" />
-      <recent name="hr.smilebacksmile.domain.append.impl" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="hr.hr.smilebacksmile.domain.util.cast.impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,11 +455,9 @@
   </component>
   <component name="RunManager" selected="Application.AppEntry">
     <configuration name="AppEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_131\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="hr.simlebacksmile.AppEntry" />
       <module name="benchmark" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hr.simlebacksmile.*" />
@@ -379,6 +484,40 @@
       </option>
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="benchmark [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -401,33 +540,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Tomcat 9.0.1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment>
-        <artifact name="DifferentAttempts:ear exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings />
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="DifferentAttempts:ear exploded" />
-        </option>
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.1" />
       <item itemvalue="Application.AppEntry" />
+      <item itemvalue="Maven.benchmark [package]" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppEntry" />
+        <item itemvalue="Maven.benchmark [package]" />
       </list>
     </recent_temporary>
   </component>
@@ -436,93 +556,58 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba69f43d-324f-46bd-84bf-92a3193f2f13" name="Default" comment="" />
-      <created>1528029758261</created>
+      <changelist id="3e5b1217-f470-4bf5-b5f4-2515695e41bf" name="Default" comment="" />
+      <created>1529216604658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528029758261</updated>
-      <workItem from="1528029770413" duration="7062000" />
-      <workItem from="1528130685403" duration="4129000" />
-      <workItem from="1528306920389" duration="624000" />
-      <workItem from="1528307877697" duration="138000" />
+      <updated>1529216604658</updated>
+      <workItem from="1529216610072" duration="4539000" />
+      <workItem from="1529221924050" duration="16881000" />
+      <workItem from="1529259903376" duration="274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11953000" />
+    <option name="totallyTimeSpent" value="21694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Persistence" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info id="JavaEE:App" order="2" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3298292" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298292" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Persistence" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298292" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.32840616" side_tool="true" visible="true" weight="0.3292683" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18251929" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="9" />
+      <window_info id="Designer" order="5" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="JavaEE:App" order="8" side_tool="true" />
-      <window_info id="Web" order="9" side_tool="true" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49871466" weight="0.39972898" />
+      <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993573" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.67159384" weight="0.3292683" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49614397" weight="0.30352303" />
+      <window_info id="Persistence" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22107969" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info id="Web" order="1" side_tool="true" />
+      <window_info id="JavaEE:App" order="0" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298292" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-    </layout-to-restore>
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4974293" weight="0.3292683" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -530,397 +615,275 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
+          <line>21</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java</url>
+          <line>11</line>
+          <properties class="hr.smilebacksmile.domain.append.abstr.AbstractAppender" method="getInitalList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>timer.getTime()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>initalList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/ConsoleTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="527">
+          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/ConsoleTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="112" lean-forward="true" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="112" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="408">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hr/smilebacksmile/domain/append/util/ListGenerator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/interfaces/Appendable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hr/simlebacksmile/run.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/ConsoleTimer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="272">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
+    <entry file="file://$PROJECT_DIR$/src/main/benchmark.iml" />
+    <entry file="file://$PROJECT_DIR$/benchmark.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/factory/RandomCollectionGeneratorFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/interfaces/Appendable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="268">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCaster.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="73" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="102">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -930,12 +893,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>DifferentAttempts:ear exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -943,7 +904,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>javaEEApplication (DifferentAttempts)|JavaEE Application</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -978,11 +939,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>DifferentAttempts</last-edited>
+          <last-edited>benchmark</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -990,7 +952,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Hibernate 5.2.16-5.2.16</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

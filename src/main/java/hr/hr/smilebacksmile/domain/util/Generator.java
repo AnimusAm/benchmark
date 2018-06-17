@@ -1,23 +1,23 @@
-package hr.smilebacksmile.domain.append.util;
+package hr.hr.smilebacksmile.domain.util;
+
+import hr.hr.smilebacksmile.domain.util.cast.SafeCast;
 
 import java.util.Random;
 
-public class Generator {
+public class Generator<T> {
 
-    private static final long MAX_SIZE = 20;// Long.MAX_VALUE;
+    private static final long MAX_SIZE = Long.MAX_VALUE;
 
     private Random rand = new Random();
-    private long size = MAX_SIZE;
-    private Class<?> generatorType = Boolean.class.getClass();
+    private Class<T> generatorType;
 
     public Generator(){ }
 
-    public Generator(final long size, Class<?> generatorType) {
-        this.size = size;
+    public Generator(final Class<T> generatorType) {
         this.generatorType = generatorType;
     }
 
-    public Object getRandomObject() {
+    public T getRandomObject() {
         final Object returnValue;
         if (generatorType == Boolean.class) {
             returnValue = rand.nextBoolean();
@@ -26,10 +26,7 @@ public class Generator {
         } else {
             returnValue = null;
         }
-        return returnValue;
-    }
 
-    public long getSize() {
-        return size;
+        return SafeCast.cast(generatorType, returnValue);
     }
 }
