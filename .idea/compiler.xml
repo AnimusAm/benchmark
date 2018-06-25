@@ -8,10 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="benchmark" />
+        <module name="loggers" />
+        <module name="performance_tracker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="benchmark" target="1.8" />
+      <module name="loggers" target="1.5" />
+      <module name="performance_tracker" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

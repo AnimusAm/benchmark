@@ -1,6 +1,6 @@
-package hr.hr.smilebacksmile.domain.util;
+package hr.smilebacksmile.domain.util;
 
-import hr.hr.smilebacksmile.domain.util.cast.SafeCast;
+import hr.smilebacksmile.domain.util.cast.SafeCast;
 
 import java.util.Random;
 

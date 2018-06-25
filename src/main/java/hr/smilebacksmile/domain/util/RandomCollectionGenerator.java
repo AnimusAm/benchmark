@@ -1,4 +1,4 @@
-package hr.hr.smilebacksmile.domain.util;
+package hr.smilebacksmile.domain.util;
 
 import java.util.Collection;
 

@@ -1,8 +1,8 @@
 package hr.smilebacksmile.domain.append.impl;
 
 
-import hr.hr.smilebacksmile.domain.util.Generator;
-import hr.hr.smilebacksmile.domain.util.impl.RandomArrayListGenerator;
+import hr.smilebacksmile.domain.util.Generator;
+import hr.smilebacksmile.domain.util.impl.RandomArrayListGenerator;
 import hr.smilebacksmile.domain.append.abstr.AbstractAppender;
 
 import java.util.ArrayList;

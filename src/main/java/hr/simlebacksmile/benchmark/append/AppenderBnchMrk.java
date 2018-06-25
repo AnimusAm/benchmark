@@ -5,6 +5,8 @@ import hr.smilebacksmile.domain.append.impl.ArrayListBooleanAppender;
 import hr.smilebacksmile.domain.append.impl.LinkedListBooleanAppender;
 import org.apache.commons.lang3.time.StopWatch;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class AppenderBnchMrk implements InvokableBenchmark {
 
@@ -13,6 +15,7 @@ public class AppenderBnchMrk implements InvokableBenchmark {
     public void runBenchmark() {
 
 
+        final Logger logger = LogManager.getLogger(this.getClass());
 
         StopWatch timer = new StopWatch();
 
@@ -21,7 +24,9 @@ public class AppenderBnchMrk implements InvokableBenchmark {
         final ArrayListBooleanAppender arrayListBooleanAppender = new ArrayListBooleanAppender(1000000);
         arrayListBooleanAppender.getInitalList();
         timer.stop();
-        System.out.println("Time: " + timer.getTime());
+
+        logger.trace("ArrayList initialization duration: {} ms", timer.getTime());
+        // System.out.println("Time: " + timer.getTime());
 
         timer.reset();
         System.out.println("LinkedList: ");

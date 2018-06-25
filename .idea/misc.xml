@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../performance_tracker/loggers/pom.xml" />
       </list>
     </option>
   </component>

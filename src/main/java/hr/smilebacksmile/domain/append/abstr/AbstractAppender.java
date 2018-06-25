@@ -1,14 +1,17 @@
 package hr.smilebacksmile.domain.append.abstr;
 
-import java.util.List;
 import hr.smilebacksmile.domain.append.interfaces.Appendable;
-import hr.hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
+import hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
+import hr.smilebacksmile.performance.logging.annotations.LoggablePerformance;
+
+import java.util.List;
 
 public abstract class AbstractAppender<T> implements Appendable{
 
     protected RandomAbstractListGenerator listGenerator;
     protected List<T> initalList;
 
+    @LoggablePerformance
     public List<T> getInitalList() {
         return initalList;
     }

@@ -1,10 +1,8 @@
-package hr.hr.smilebacksmile.domain.util.impl;
+package hr.smilebacksmile.domain.util.impl;
 
-import hr.hr.smilebacksmile.domain.util.Generator;
-import hr.hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
-import hr.hr.smilebacksmile.domain.util.cast.SafeCast;
-import hr.hr.smilebacksmile.domain.util.cast.impl.SafeCastArrayList;
-import hr.hr.smilebacksmile.domain.util.cast.impl.SafeCastList;
+import hr.smilebacksmile.domain.util.Generator;
+import hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
+import hr.smilebacksmile.domain.util.cast.impl.SafeCastList;
 
 import java.util.*;
 

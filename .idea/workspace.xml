@@ -2,38 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e5b1217-f470-4bf5-b5f4-2515695e41bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DifferentAttempts_ear_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DifferentAttempts_war_exploded.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/loggers_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/loggers_ear_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/performance_tracker_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_2_16_5_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/JPA_2_0_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/JavaeeSecurity_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/benchmark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/benchmark.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/SafeCast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/Generator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/abstr/AbstractAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/abstr/AbstractAppender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/util/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/util/RandomCollectionGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/util/abstr/RandomAbstractListGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../performance_tracker/target/" />
+    <ignored path="$PROJECT_DIR$/../performance_tracker/loggers/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppenderBnchMrk.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppenderBnchMrk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayListBooleanAppender.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="265">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,86 +59,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeCast.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
+      <file leaf-file-name="frameworks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeCastList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+      <file leaf-file-name="log4jdummy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4jdummy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="34">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DurationConverter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1112#1113#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SafeCastArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
+      <file leaf-file-name="LogEventPatternConverter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0-sources.jar!/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j2.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/conf/log4j2.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomArrayListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" column="73" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomLinkedListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomAbstractListGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomCollectionGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="102">
+              <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -154,6 +153,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Aspect" />
         <option value="Class" />
       </list>
     </option>
@@ -164,14 +164,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomLinkedListGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/util/impl/RandomArrayListGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/factory/RandomCollectionGeneratorFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/SafeCaster.java" />
@@ -185,6 +182,26 @@
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/LoggablePerformance.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/aspects/MethodPerformanceLogger.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/aspects/MethodPerformanceLogger.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/log4j.properties" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.properties" />
+        <option value="$PROJECT_DIR$/../performance_tracker/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/logging/frameworks/log4j.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/logging/frameworks/log4j/plugins/DurationConverter.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/loggers/src/logging/frameworks/log4j/plugins/DurationConverter.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/loggers/pom.xml" />
+        <option value="$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java" />
       </list>
     </option>
   </component>
@@ -213,24 +230,7 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -241,6 +241,31 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="hr.smilebacksmile.benchmark.performance:performance_tracker:1.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
         </path>
       </expand>
       <select />
@@ -263,7 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,6 +299,11 @@
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,56 +326,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="abstr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="cast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="cast" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
@@ -382,63 +362,193 @@
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="append" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="append" type="462c0819:PsiDirectoryNode" />
-              <item name="abstr" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="append" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hr" type="462c0819:PsiDirectoryNode" />
-              <item name="append" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="log4j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="loggers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="log4j" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="annotations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="aspects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../performance_tracker/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.2551724" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="hr.hr.smilebacksmile.domain.util.cast.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\performance_tracker" />
+      <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\benchmark\src\main\resources\conf" />
+      <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\benchmark\src\main\resources" />
+      <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\performance_tracker\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -453,7 +563,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppEntry">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.1">
     <configuration name="AppEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hr.simlebacksmile.AppEntry" />
       <module name="benchmark" />
@@ -517,6 +627,57 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method>
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="performance_tracker [install]" run_configuration_type="MavenRunConfiguration" />
+      </method>
+    </configuration>
+    <configuration name="performance_tracker [install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../performance_tracker" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration name="performance_tracker [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../performance_tracker" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -540,7 +701,30 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Tomcat 9.0.1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="loggers:ear exploded2">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="loggers:ear exploded2" />
+        </option>
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Maven.performance_tracker [package]" />
+      <item itemvalue="Maven.performance_tracker [install]" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.1" />
       <item itemvalue="Application.AppEntry" />
       <item itemvalue="Maven.benchmark [package]" />
     </list>
@@ -563,50 +747,57 @@
       <updated>1529216604658</updated>
       <workItem from="1529216610072" duration="4539000" />
       <workItem from="1529221924050" duration="16881000" />
-      <workItem from="1529259903376" duration="274000" />
+      <workItem from="1529259903376" duration="596000" />
+      <workItem from="1529342096881" duration="2171000" />
+      <workItem from="1529656304310" duration="1265000" />
+      <workItem from="1529754060872" duration="9318000" />
+      <workItem from="1529818258084" duration="16497000" />
+      <workItem from="1529912770963" duration="2320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21694000" />
+    <option name="totallyTimeSpent" value="53587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.32840616" side_tool="true" visible="true" weight="0.3292683" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18251929" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.32969153" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4993573" weight="0.3292683" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18123393" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info id="Capture Tool" order="9" />
       <window_info id="Designer" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49871466" weight="0.39972898" />
-      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49871466" weight="0.39972898" />
+      <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4993573" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.67159384" weight="0.3292683" />
-      <window_info anchor="bottom" id="Spring" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49614397" weight="0.30352303" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4993573" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.6703085" weight="0.33604336" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49614397" weight="0.30352303" />
       <window_info id="Persistence" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22107969" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22750643" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info id="Web" order="1" side_tool="true" />
       <window_info id="JavaEE:App" order="0" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4974293" weight="0.3292683" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4974293" weight="0.3292683" />
+      <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,23 +811,58 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
-          <line>21</line>
+          <line>24</line>
           <properties />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java</url>
-          <line>11</line>
-          <properties class="hr.smilebacksmile.domain.append.abstr.AbstractAppender" method="getInitalList">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java</url>
+          <line>2418</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java</url>
+          <line>1881</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java</url>
+          <line>2010</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((LoggerContext)((Logger)logger).context).loggerRegistry" custom="org.apache.logging.log4j.core.LoggerContext,org.apache.logging.log4j.core.Logger" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>isEnabled(level, marker, message, p0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>timer.getTime()</expression-string>
         <language-id>JAVA</language-id>
@@ -650,85 +876,56 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="55" lean-forward="true" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/SafeCast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -750,46 +947,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/benchmark.iml" />
-    <entry file="file://$PROJECT_DIR$/benchmark.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/factory/RandomCollectionGeneratorFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/interfaces/Appendable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -801,7 +963,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCaster.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -809,44 +971,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="17" column="73" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
@@ -857,33 +1010,691 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/SafeCast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/aspect/BenchmarkAspect.aj" />
+    <entry file="uml://MAVEN/groupId:benchmark:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>groupId:benchmark:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="787.8246527777776" y="850.0">groupId:benchmark:1.0-SNAPSHOT</node>
+            <node x="1238.5538194444441" y="771.0">org.springframework.boot:spring-boot-starter-parent:pom:2.0.3.RELEASE</node>
+            <node x="1058.5538194444441" y="771.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE</node>
+            <node x="1364.5538194444441" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE</node>
+            <node x="1109.8958333333333" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE</node>
+            <node x="1118.8958333333333" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE</node>
+            <node x="1421.8958333333333" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE</node>
+            <node x="1263.6788194444441" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="1240.9288194444441" y="336.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="1470.8038194444441" y="336.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="1571.3038194444441" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="1606.8038194444441" y="336.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="1464.3038194444441" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="1706.8038194444441" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="419.9969618055564" y="79.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE</node>
+            <node x="425.4969618055564" y="0.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE</node>
+            <node x="1313.8958333333333" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="713.3038194444441" y="682.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE</node>
+            <node x="670.4344618055563" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+            <node x="564.3424479166666" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="776.8094618055563" y="415.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+            <node x="964.4344618055563" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6</node>
+            <node x="548.4344618055563" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6</node>
+            <node x="727.4344618055563" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6</node>
+            <node x="1895.42578125" y="682.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE</node>
+            <node x="2033.3038194444441" y="504.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31</node>
+            <node x="1822.303819444444" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31</node>
+            <node x="1968.3038194444441" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31</node>
+            <node x="2269.3125" y="682.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final</node>
+            <node x="2266.3038194444443" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="2391.3038194444443" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="2162.3038194444443" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="434.8333333333333" y="593.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE</node>
+            <node x="383.89583333333326" y="178.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE</node>
+            <node x="311.6757812499999" y="682.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE</node>
+            <node x="312.83333333333326" y="257.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE</node>
+            <node x="1056.7708333333333" y="336.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE</node>
+            <node x="167.83333333333326" y="257.0">org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE</node>
+            <node x="0.0" y="771.0">org.apache.commons:commons-lang3:jar:3.1</node>
+            <node x="140.0" y="771.0">groupId:performance_tracker:jar:1.0-SNAPSHOT</node>
+            <node x="136.67578124999977" y="682.0">groupId:performance_tracker:jar:1.0-SNAPSHOT/log4j:log4j:jar:1.2.17</node>
+            <node x="214.67578124999977" y="682.0">groupId:performance_tracker:jar:1.0-SNAPSHOT/org.aspectj:aspectjrt:jar:1.9.1</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.31">
+              <point x="-22.0" y="-14.5" />
+              <point x="1961.42578125" y="652.0" />
+              <point x="1885.303819444444" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="33.25" y="-14.5" />
+              <point x="1464.3038194444441" y="563.0" />
+              <point x="1696.3038194444441" y="563.0" />
+              <point x="1696.3038194444441" y="128.0" />
+              <point x="507.1844618055564" y="128.0" />
+              <point x="40.6875" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="-66.66666666666674" y="-14.5" />
+              <point x="726.6371527777774" y="662.0" />
+              <point x="511.49999999999983" y="662.0" />
+              <point x="30.666666666666515" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="1206.3958333333333" y="484.0" />
+              <point x="1181.1458333333333" y="484.0" />
+              <point x="23.75" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="-23.0" y="-14.5" />
+              <point x="457.8333333333333" y="573.0" />
+              <point x="456.6458333333333" y="573.0" />
+              <point x="456.6458333333333" y="232.0" />
+              <point x="447.02083333333326" y="232.0" />
+              <point x="12.625" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="52.66666666666674" y="-14.5" />
+              <point x="680.1011284722231" y="573.0" />
+              <point x="685.9344618055563" y="573.0" />
+              <point x="-46.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="28.75" y="-14.5" />
+              <point x="397.9257812499999" y="652.0" />
+              <point x="424.3333333333333" y="652.0" />
+              <point x="424.3333333333333" y="390.0" />
+              <point x="1084.0208333333333" y="390.0" />
+              <point x="-27.25" y="14.5" />
+            </edge>
+            <edge source="groupId:benchmark:1.0-SNAPSHOT" target="groupId:performance_tracker:jar:1.0-SNAPSHOT">
+              <point x="-11.5" y="-14.5" />
+              <point x="822.3246527777776" y="820.0" />
+              <point x="210.5" y="820.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31">
+              <point x="22.0" y="-14.5" />
+              <point x="2005.42578125" y="652.0" />
+              <point x="2054.8038194444443" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.3.RELEASE">
+              <point x="-33.25" y="-14.5" />
+              <point x="1397.8038194444441" y="563.0" />
+              <point x="1206.3958333333333" y="563.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+              <point x="66.66666666666674" y="-14.5" />
+              <point x="859.9704861111109" y="662.0" />
+              <point x="1397.8038194444441" y="662.0" />
+              <point x="-33.25" y="14.5" />
+            </edge>
+            <edge source="groupId:performance_tracker:jar:1.0-SNAPSHOT" target="groupId:performance_tracker:jar:1.0-SNAPSHOT/log4j:log4j:jar:1.2.17">
+              <point x="-35.25" y="-14.5" />
+              <point x="175.25" y="751.0" />
+              <point x="165.67578124999977" y="751.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="-37.5" y="-14.5" />
+              <point x="1001.9344618055563" y="563.0" />
+              <point x="778.9344618055563" y="563.0" />
+              <point x="46.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0">
+              <point x="59.66666666666674" y="-14.5" />
+              <point x="1571.0625" y="484.0" />
+              <point x="1621.3038194444441" y="484.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="55.41666666666674" y="-14.5" />
+              <point x="1486.4704861111109" y="573.0" />
+              <point x="1741.8038194444441" y="573.0" />
+              <point x="-35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6">
+              <point x="40.0" y="-14.5" />
+              <point x="833.3038194444441" y="652.0" />
+              <point x="1039.4344618055563" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="groupId:benchmark:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE">
+              <point x="11.5" y="-14.5" />
+              <point x="845.3246527777776" y="820.0" />
+              <point x="1138.5538194444441" y="820.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="groupId:performance_tracker:jar:1.0-SNAPSHOT" target="groupId:performance_tracker:jar:1.0-SNAPSHOT/org.aspectj:aspectjrt:jar:1.9.1">
+              <point x="35.25" y="-14.5" />
+              <point x="245.75" y="751.0" />
+              <point x="253.17578124999977" y="751.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE">
+              <point x="40.0" y="-14.5" />
+              <point x="1178.5538194444441" y="741.0" />
+              <point x="1983.42578125" y="741.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="-13.333333333333258" y="-14.5" />
+              <point x="779.9704861111109" y="642.0" />
+              <point x="716.9344618055563" y="642.0" />
+              <point x="-15.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="47.916666666666515" y="-14.5" />
+              <point x="417.0924479166664" y="662.0" />
+              <point x="450.1666666666668" y="662.0" />
+              <point x="-30.666666666666515" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="40.875" y="-14.5" />
+              <point x="1152.1458333333333" y="316.0" />
+              <point x="1146.9913194444441" y="316.0" />
+              <point x="1146.9913194444441" y="148.0" />
+              <point x="483.9344618055564" y="148.0" />
+              <point x="17.4375" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="-13.625" y="-14.5" />
+              <point x="1097.6458333333333" y="306.0" />
+              <point x="380.33333333333326" y="306.0" />
+              <point x="22.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/com.fasterxml:classmate:jar:1.3.4">
+              <point x="-44.33333333333334" y="-14.5" />
+              <point x="2291.479166666667" y="662.0" />
+              <point x="2204.3038194444443" y="662.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+              <point x="44.333333333333314" y="-14.5" />
+              <point x="2380.145833333333" y="662.0" />
+              <point x="2443.8038194444443" y="662.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="-52.66666666666674" y="-14.5" />
+              <point x="574.7677951388896" y="573.0" />
+              <point x="584.3424479166666" y="573.0" />
+              <point x="584.3424479166666" y="484.0" />
+              <point x="599.3424479166666" y="484.0" />
+              <point x="-35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="54.25" y="-14.5" />
+              <point x="890.1844618055563" y="484.0" />
+              <point x="839.3094618055563" y="484.0" />
+              <point x="12.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6">
+              <point x="-54.25" y="-14.5" />
+              <point x="781.6844618055563" y="573.0" />
+              <point x="747.9344618055563" y="573.0" />
+              <point x="15.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="28.25" y="-14.5" />
+              <point x="1348.4288194444441" y="390.0" />
+              <point x="1483.1371527777774" y="390.0" />
+              <point x="-24.66666666666663" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="31.0" y="-14.5" />
+              <point x="763.4344618055563" y="484.0" />
+              <point x="814.3094618055563" y="484.0" />
+              <point x="-12.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.yaml:snakeyaml:jar:1.19">
+              <point x="-11.083333333333258" y="-14.5" />
+              <point x="1419.9704861111109" y="553.0" />
+              <point x="1357.8958333333333" y="553.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="230.33333333333326" y="138.0" />
+              <point x="437.4344618055564" y="138.0" />
+              <point x="-29.0625" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6">
+              <point x="-40.0" y="-14.5" />
+              <point x="753.3038194444441" y="652.0" />
+              <point x="627.4344618055563" y="652.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
+              <point x="0.0" y="-14.5" />
+              <point x="1511.3958333333333" y="484.0" />
+              <point x="1507.8038194444441" y="484.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="23.75" y="-14.5" />
+              <point x="1181.1458333333333" y="390.0" />
+              <point x="1176.2708333333333" y="390.0" />
+              <point x="1176.2708333333333" y="138.0" />
+              <point x="495.5594618055564" y="138.0" />
+              <point x="29.0625" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="-40.875" y="-14.5" />
+              <point x="1070.3958333333333" y="316.0" />
+              <point x="261.58333333333326" y="316.0" />
+              <point x="31.25" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final/javax.validation:validation-api:jar:2.0.1.Final">
+              <point x="0.0" y="-14.5" />
+              <point x="2335.8125" y="662.0" />
+              <point x="2318.8038194444443" y="662.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="13.625" y="-14.5" />
+              <point x="1124.8958333333333" y="316.0" />
+              <point x="1133.0208333333333" y="316.0" />
+              <point x="1133.0208333333333" y="232.0" />
+              <point x="472.27083333333326" y="232.0" />
+              <point x="37.875" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="-66.0" y="-14.5" />
+              <point x="1917.42578125" y="662.0" />
+              <point x="1811.8038194444441" y="662.0" />
+              <point x="35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE">
+              <point x="-9.583333333333485" y="-14.5" />
+              <point x="359.5924479166664" y="642.0" />
+              <point x="335.33333333333326" y="642.0" />
+              <point x="-22.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE">
+              <point x="-13.333333333333258" y="-14.5" />
+              <point x="1125.2204861111109" y="731.0" />
+              <point x="793.3038194444441" y="731.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="23.0" y="-14.5" />
+              <point x="503.8333333333333" y="573.0" />
+              <point x="495.3958333333333" y="573.0" />
+              <point x="495.3958333333333" y="158.0" />
+              <point x="472.3094618055564" y="158.0" />
+              <point x="5.8125" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="9.583333333333485" y="-14.5" />
+              <point x="378.75911458333337" y="642.0" />
+              <point x="413.3333333333333" y="642.0" />
+              <point x="413.3333333333333" y="232.0" />
+              <point x="421.77083333333326" y="232.0" />
+              <point x="-12.625" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-22.5" y="-14.5" />
+              <point x="335.33333333333326" y="148.0" />
+              <point x="449.0594618055564" y="148.0" />
+              <point x="-17.4375" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.31" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+              <point x="0.0" y="-14.5" />
+              <point x="2054.8038194444443" y="573.0" />
+              <point x="2068.3038194444443" y="573.0" />
+              <point x="-35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.0.3.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.31">
+              <point x="66.0" y="-14.5" />
+              <point x="2049.42578125" y="662.0" />
+              <point x="2151.8038194444443" y="662.0" />
+              <point x="2151.8038194444443" y="573.0" />
+              <point x="2138.3038194444443" y="573.0" />
+              <point x="35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE">
+              <point x="13.333333333333258" y="-14.5" />
+              <point x="1151.8871527777774" y="731.0" />
+              <point x="1464.3038194444441" y="731.0" />
+              <point x="33.25" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="37.5" y="-14.5" />
+              <point x="1076.9344618055563" y="474.0" />
+              <point x="864.3094618055563" y="474.0" />
+              <point x="37.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0">
+              <point x="25.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE">
+              <point x="-40.0" y="-14.5" />
+              <point x="1098.5538194444441" y="741.0" />
+              <point x="480.8333333333333" y="741.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
+              <point x="-59.66666666666663" y="-14.5" />
+              <point x="1451.7291666666665" y="484.0" />
+              <point x="1320.1788194444441" y="484.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="groupId:benchmark:1.0-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-parent:pom:2.0.3.RELEASE">
+              <point x="34.5" y="-14.5" />
+              <point x="868.3246527777776" y="830.0" />
+              <point x="1324.5538194444441" y="830.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-expression:jar:5.0.7.RELEASE">
+              <point x="-28.75" y="-14.5" />
+              <point x="340.4257812499999" y="652.0" />
+              <point x="199.08333333333326" y="652.0" />
+              <point x="-31.25" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE">
+              <point x="11.083333333333258" y="-14.5" />
+              <point x="1442.1371527777774" y="553.0" />
+              <point x="1511.3958333333333" y="553.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="-31.0" y="-14.5" />
+              <point x="701.4344618055563" y="464.0" />
+              <point x="669.3424479166666" y="464.0" />
+              <point x="35.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-aop:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE">
+              <point x="22.5" y="-14.5" />
+              <point x="380.33333333333326" y="232.0" />
+              <point x="396.52083333333326" y="232.0" />
+              <point x="-37.875" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE/org.springframework:spring-context:jar:5.0.7.RELEASE">
+              <point x="-23.75" y="-14.5" />
+              <point x="1133.6458333333333" y="390.0" />
+              <point x="1138.5208333333333" y="390.0" />
+              <point x="27.25" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+              <point x="-28.25" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE">
+              <point x="-66.66666666666674" y="-14.5" />
+              <point x="1071.8871527777774" y="751.0" />
+              <point x="369.1757812499999" y="751.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.6" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6">
+              <point x="0.0" y="-14.5" />
+              <point x="627.4344618055563" y="573.0" />
+              <point x="606.6011284722231" y="573.0" />
+              <point x="606.6011284722231" y="474.0" />
+              <point x="789.3094618055563" y="474.0" />
+              <point x="-37.5" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot:jar:2.0.3.RELEASE">
+              <point x="-55.41666666666674" y="-14.5" />
+              <point x="1375.6371527777774" y="573.0" />
+              <point x="1108.3958333333333" y="573.0" />
+              <point x="1108.3958333333333" y="484.0" />
+              <point x="1133.6458333333333" y="484.0" />
+              <point x="-23.75" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-webmvc:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="-47.916666666666515" y="-14.5" />
+              <point x="321.25911458333337" y="662.0" />
+              <point x="157.33333333333326" y="662.0" />
+              <point x="157.33333333333326" y="128.0" />
+              <point x="425.8094618055564" y="128.0" />
+              <point x="-40.6875" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.10.Final">
+              <point x="66.66666666666674" y="-14.5" />
+              <point x="1205.2204861111109" y="751.0" />
+              <point x="2335.8125" y="751.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework:spring-web:jar:5.0.7.RELEASE/org.springframework:spring-beans:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="434.39583333333326" y="158.0" />
+              <point x="460.6844618055564" y="158.0" />
+              <point x="-5.8125" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework:spring-core:jar:5.0.7.RELEASE/org.springframework:spring-jcl:jar:5.0.7.RELEASE">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.3.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25">
+              <point x="-25.0" y="-14.5" />
+              <point x="1596.3038194444441" y="390.0" />
+              <point x="1532.4704861111109" y="390.0" />
+              <point x="24.666666666666742" y="14.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:2.0.3.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.0.3.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.6">
+              <point x="13.333333333333258" y="-14.5" />
+              <point x="806.6371527777774" y="642.0" />
+              <point x="835.9344618055563" y="642.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="groupId:benchmark:1.0-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.1">
+              <point x="-34.5" y="-14.5" />
+              <point x="799.3246527777776" y="830.0" />
+              <point x="60.0" y="830.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0206362494767685" x="261.0" y="856.0" />
+          <SelectedNodes>
+            <node>groupId:benchmark:1.0-SNAPSHOT</node>
+            <node>groupId:performance_tracker:jar:1.0-SNAPSHOT/org.aspectj:aspectjrt:jar:1.9.1</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/time/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="8" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/performance_tracker.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-to-slf4j/2.10.0/log4j-to-slf4j-2.10.0-sources.jar!/org/apache/logging/slf4j/SLF4JLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="135" column="20" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="2419" selection-start-line="2419" selection-end-line="2419" />
+          <folding>
+            <element signature="e#95371#95372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.properties" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="3423" column="7" selection-start-line="3423" selection-start-column="7" selection-end-line="3423" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1905">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/LogManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2823">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+        <state relative-caret-position="265">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4jdummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0-sources.jar!/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -893,10 +1704,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>performance_tracker:ear exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2551724" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -904,11 +1717,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>JavaEE Application</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2551724" />
               </list>
             </option>
           </splitter-proportions>
@@ -919,7 +1732,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2551724" />
               </list>
             </option>
           </splitter-proportions>
@@ -931,7 +1744,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2551724" />
               </list>
             </option>
           </splitter-proportions>
@@ -939,12 +1752,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>benchmark</last-edited>
+          <last-edited>performance_tracker</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.2551724" />
               </list>
             </option>
           </splitter-proportions>
@@ -952,16 +1764,19 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>Maven: org.aspectj:aspectjrt:1.9.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.2551724" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

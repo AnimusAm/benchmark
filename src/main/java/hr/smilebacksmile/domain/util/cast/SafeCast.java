@@ -1,4 +1,4 @@
-package hr.hr.smilebacksmile.domain.util.cast;
+package hr.smilebacksmile.domain.util.cast;
 
 public interface SafeCast {
 

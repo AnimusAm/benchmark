@@ -1,6 +1,6 @@
-package hr.hr.smilebacksmile.domain.util.cast.impl;
+package hr.smilebacksmile.domain.util.cast.impl;
 
-import hr.hr.smilebacksmile.domain.util.cast.SafeCast;
+import hr.smilebacksmile.domain.util.cast.SafeCast;
 
 import java.util.ArrayList;
 import java.util.Collection;
