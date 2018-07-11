@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e5b1217-f470-4bf5-b5f4-2515695e41bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/loggers_ear_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/loggers_ear_exploded2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/performance_tracker_ear_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/benchmark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/benchmark.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/Generator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/SafeCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/SafeCast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/impl/LinkedListBooleanAppender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/abstr/AbstractAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/abstr/AbstractAppender.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/smilebacksmile/domain/append/impl/ArrayListBooleanAppender.class" afterDir="false" />
@@ -50,8 +34,8 @@
       <file leaf-file-name="AppenderBnchMrk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="231">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,45 +43,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frameworks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="452">
+              <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4jdummy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4jdummy.java">
+      <file leaf-file-name="AppEntry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="187">
+              <caret line="12" column="21" selection-start-line="9" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DurationConverter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java">
+      <file leaf-file-name="InvokableBenchmark.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/inerfaces/InvokableBenchmark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#1067#1068#0" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogEventPatternConverter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0-sources.jar!/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java">
+      <file leaf-file-name="log4j2.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggablePerformance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,43 +127,7 @@
         <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugins.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j2.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/conf/log4j2.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="52" />
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -154,6 +139,7 @@
       <list>
         <option value="Interface" />
         <option value="Aspect" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -189,19 +175,25 @@
         <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java" />
         <option value="$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/append/abstr/AbstractAppender.java" />
         <option value="$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/conf/log4j.properties" />
         <option value="$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.properties" />
-        <option value="$PROJECT_DIR$/../performance_tracker/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
         <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/logging/frameworks/log4j.java" />
         <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/logging/frameworks/log4j/plugins/DurationConverter.java" />
         <option value="$PROJECT_DIR$/../performance_tracker/loggers/src/logging/frameworks/log4j/plugins/DurationConverter.java" />
         <option value="$PROJECT_DIR$/../performance_tracker/loggers/pom.xml" />
+        <option value="$PROJECT_DIR$/../performance_tracker/gitignore" />
         <option value="$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/log4j2.xml" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/hr/smilebacksmile/logging/frameworks/log4j/plugins/DurationConverter.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/pom.xml" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/Test.java" />
+        <option value="$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.xml" />
       </list>
     </option>
   </component>
@@ -225,28 +217,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="benchmark" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="hr.smilebacksmile.benchmark.performance:performance_tracker:1.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="loggers" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -256,16 +227,6 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="performance_tracker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
         </path>
       </expand>
       <select />
@@ -288,6 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -367,19 +330,6 @@
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="benchmark" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -395,79 +345,6 @@
             <path>
               <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
               <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
-              <item name="log4j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="loggers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
-              <item name="log4j" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -490,48 +367,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="logging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-              <item name="annotations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-              <item name="aspects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="benchmark" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance_tracker" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../performance_tracker/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testing_db_access" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -545,6 +391,7 @@
       <recent name="hr.hr.smilebacksmile.domain.util.cast.impl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\performance_tracker\src\main\resources" />
       <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\performance_tracker" />
       <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\benchmark\src\main\resources\conf" />
       <recent name="C:\Users\Animus\Documents\development\IdeaWrksp\benchmark\src\main\resources" />
@@ -563,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.1">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="AppEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hr.simlebacksmile.AppEntry" />
       <module name="benchmark" />
@@ -571,6 +418,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hr.simlebacksmile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.smilebacksmile.performance.logging.Test" />
+      <module name="performance_tracker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.smilebacksmile.performance.logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -727,9 +585,11 @@
       <item itemvalue="Tomcat Server.Tomcat 9.0.1" />
       <item itemvalue="Application.AppEntry" />
       <item itemvalue="Maven.benchmark [package]" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.AppEntry" />
         <item itemvalue="Maven.benchmark [package]" />
       </list>
@@ -752,21 +612,24 @@
       <workItem from="1529656304310" duration="1265000" />
       <workItem from="1529754060872" duration="9318000" />
       <workItem from="1529818258084" duration="16497000" />
-      <workItem from="1529912770963" duration="2320000" />
+      <workItem from="1529912770963" duration="9728000" />
+      <workItem from="1530116307494" duration="3695000" />
+      <workItem from="1530438926058" duration="1403000" />
+      <workItem from="1531242362733" duration="1876000" />
+      <workItem from="1531326498481" duration="2621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53587000" />
+    <option name="totallyTimeSpent" value="70590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.32969153" side_tool="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4993573" weight="0.3292683" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18123393" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.18123393" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info id="Capture Tool" order="9" />
       <window_info id="Designer" order="5" />
@@ -776,16 +639,17 @@
       <window_info id="UI Designer" order="7" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49871466" weight="0.39972898" />
       <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4974293" weight="0.3292683" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.4993573" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.6703085" weight="0.33604336" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.6703085" visible="true" weight="0.33604336" />
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49614397" weight="0.30352303" />
       <window_info id="Persistence" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22750643" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.27506426" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info id="Web" order="1" side_tool="true" />
       <window_info id="JavaEE:App" order="0" side_tool="true" />
@@ -794,10 +658,9 @@
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4974293" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Find" order="3" visible="true" weight="0.3292683" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -811,7 +674,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
-          <line>24</line>
+          <line>21</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint type="java-line">
@@ -822,7 +685,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
-          <line>19</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -839,16 +702,22 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/hr/smilebacksmile/logging/frameworks/log4j/plugins/DurationConverter.java</url>
+          <line>20</line>
           <properties />
-          <option name="timeStamp" value="6" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/Test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="7" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -858,6 +727,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ThreadContext.get(&quot;duration&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ThreadContext</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>isEnabled(level, marker, message, p0)</expression-string>
         <language-id>JAVA</language-id>
@@ -876,55 +755,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/SafeCast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/cast/impl/SafeCastArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomArrayListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/impl/RandomLinkedListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/abstr/RandomAbstractListGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/smilebacksmile/domain/util/RandomCollectionGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1530,16 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="57" selection-start-column="8" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/benchmark.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1071" />
@@ -1572,16 +1392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.properties" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0-sources.jar!/org/apache/logging/log4j/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1604,10 +1414,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks.java" />
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins.java" />
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4jdummy.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0-sources.jar!/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/log4j2.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/logging/LogManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/aspects/MethodPerformanceLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0-sources.jar!/org/apache/logging/log4j/spi/AbstractLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="2300" column="16" selection-start-line="2300" selection-start-column="16" selection-end-line="2300" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0-sources.jar!/org/apache/logging/log4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3225" column="11" selection-start-line="3225" selection-start-column="11" selection-end-line="3225" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/hr/smilebacksmile/logging/frameworks/log4j/plugins/DurationConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/AppEntry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="21" selection-start-line="9" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1618,83 +1483,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/log4j2.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hr/simlebacksmile/benchmark/append/AppenderBnchMrk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="231">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4jdummy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0-sources.jar!/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="452">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../performance_tracker/loggers/src/main/java/logging/frameworks/log4j/plugins/DurationConverter.java">
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/annotations/LoggablePerformance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/src/main/java/hr/smilebacksmile/performance/logging/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../performance_tracker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -1752,11 +1604,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>performance_tracker</last-edited>
+          <last-edited>benchmark</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2551724" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

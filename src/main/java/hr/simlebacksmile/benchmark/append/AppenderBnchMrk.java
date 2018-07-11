@@ -14,9 +14,6 @@ public class AppenderBnchMrk implements InvokableBenchmark {
     @Override
     public void runBenchmark() {
 
-
-        final Logger logger = LogManager.getLogger(this.getClass());
-
         StopWatch timer = new StopWatch();
 
         System.out.println("ArrayList: ");
@@ -25,8 +22,7 @@ public class AppenderBnchMrk implements InvokableBenchmark {
         arrayListBooleanAppender.getInitalList();
         timer.stop();
 
-        logger.trace("ArrayList initialization duration: {} ms", timer.getTime());
-        // System.out.println("Time: " + timer.getTime());
+        System.out.println("Time: " + timer.getTime());
 
         timer.reset();
         System.out.println("LinkedList: ");
