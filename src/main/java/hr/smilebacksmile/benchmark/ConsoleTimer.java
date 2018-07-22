@@ -1,4 +1,4 @@
-package hr.simlebacksmile.benchmark;
+package hr.smilebacksmile.benchmark;
 
 
 import org.apache.commons.lang3.time.StopWatch;

@@ -1,7 +1,7 @@
-package hr.simlebacksmile;
+package hr.smilebacksmile;
 
-import hr.simlebacksmile.benchmark.inerfaces.InvokableBenchmark;
-import hr.simlebacksmile.benchmark.append.AppenderBnchMrk;
+import hr.smilebacksmile.benchmark.inerfaces.InvokableBenchmark;
+import hr.smilebacksmile.benchmark.append.AppenderBnchMrk;
 
 public class AppEntry {
 

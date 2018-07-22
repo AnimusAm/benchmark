@@ -1,6 +1,6 @@
-package hr.simlebacksmile.benchmark.append;
+package hr.smilebacksmile.benchmark.append;
 
-import hr.simlebacksmile.benchmark.inerfaces.InvokableBenchmark;
+import hr.smilebacksmile.benchmark.inerfaces.InvokableBenchmark;
 import hr.smilebacksmile.domain.append.impl.ArrayListBooleanListAppender;
 import hr.smilebacksmile.domain.append.impl.LinkedListBooleanListAppender;
 

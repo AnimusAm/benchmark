@@ -4,7 +4,7 @@ import hr.smilebacksmile.domain.util.Generator;
 import hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
 import hr.smilebacksmile.domain.util.cast.impl.SafeCastList;
 
-import java.util.*;
+import java.util.ArrayList;
 
 public class RandomArrayListGenerator<V extends ArrayList<T>, T> extends RandomAbstractListGenerator<V, T> {
 

@@ -1,4 +1,4 @@
-package hr.simlebacksmile.benchmark.inerfaces;
+package hr.smilebacksmile.benchmark.inerfaces;
 
 public interface InvokableBenchmark {
 
