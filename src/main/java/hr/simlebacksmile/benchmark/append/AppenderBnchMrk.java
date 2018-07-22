@@ -1,24 +1,22 @@
 package hr.simlebacksmile.benchmark.append;
 
 import hr.simlebacksmile.benchmark.inerfaces.InvokableBenchmark;
-import hr.smilebacksmile.domain.append.impl.ArrayListBooleanAppender;
-import hr.smilebacksmile.domain.append.impl.LinkedListBooleanAppender;
-import org.apache.commons.lang3.time.StopWatch;
+import hr.smilebacksmile.domain.append.impl.ArrayListBooleanListAppender;
+import hr.smilebacksmile.domain.append.impl.LinkedListBooleanListAppender;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import java.util.List;
 
 public class AppenderBnchMrk implements InvokableBenchmark {
 
 
-    @Override
+/*    @Override
     public void runBenchmark() {
 
         StopWatch timer = new StopWatch();
 
         System.out.println("ArrayList: ");
         timer.start();
-        final ArrayListBooleanAppender arrayListBooleanAppender = new ArrayListBooleanAppender(1000000);
+        final ArrayListBooleanListAppender arrayListBooleanAppender = new ArrayListBooleanListAppender(1000000);
         arrayListBooleanAppender.getInitalList();
         timer.stop();
 
@@ -27,9 +25,22 @@ public class AppenderBnchMrk implements InvokableBenchmark {
         timer.reset();
         System.out.println("LinkedList: ");
         timer.start();
-        final LinkedListBooleanAppender linkedListBooleanAppender = new LinkedListBooleanAppender(1000000);
+        final LinkedListBooleanListAppender linkedListBooleanAppender = new LinkedListBooleanListAppender(1000000);
         linkedListBooleanAppender.getInitalList();
         timer.stop();
         System.out.println("Time: " + timer.getTime());
+    }*/
+
+    @Override
+    public void runBenchmark() {
+
+        final ArrayListBooleanListAppender arrayListBooleanAppender = new ArrayListBooleanListAppender(Boolean.class);
+        final List<Boolean> arrayList = arrayListBooleanAppender.generateList(100000);
+        arrayListBooleanAppender.setList(arrayList);
+
+
+        final LinkedListBooleanListAppender linkedListBooleanAppender = new LinkedListBooleanListAppender(Boolean.class);
+        final List<Boolean> linkedList = linkedListBooleanAppender.generateList(100000);
+        linkedListBooleanAppender.setList(linkedList);
     }
 }
