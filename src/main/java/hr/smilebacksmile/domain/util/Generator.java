@@ -11,8 +11,6 @@ public class Generator<T> {
     private Random rand = new Random();
     private Class<T> generatorType;
 
-    public Generator(){ }
-
     public Generator(final Class<T> generatorType) {
         this.generatorType = generatorType;
     }

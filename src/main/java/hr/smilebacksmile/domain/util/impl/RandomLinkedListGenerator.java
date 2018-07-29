@@ -8,8 +8,8 @@ import java.util.LinkedList;
 
 public class RandomLinkedListGenerator<V extends LinkedList<T>, T> extends RandomAbstractListGenerator<V, T> {
 
-    public RandomLinkedListGenerator(final Generator generator) {
-        this.generator = generator;
+    public RandomLinkedListGenerator(final Class<T> type) {
+        super(type);
     }
 
     private V generate(final long size) {

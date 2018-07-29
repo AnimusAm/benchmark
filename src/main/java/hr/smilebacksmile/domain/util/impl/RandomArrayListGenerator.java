@@ -3,13 +3,14 @@ package hr.smilebacksmile.domain.util.impl;
 import hr.smilebacksmile.domain.util.Generator;
 import hr.smilebacksmile.domain.util.abstr.RandomAbstractListGenerator;
 import hr.smilebacksmile.domain.util.cast.impl.SafeCastList;
+import hr.smilebacksmile.domain.util.factory.GeneratorFactory;
 
 import java.util.ArrayList;
 
 public class RandomArrayListGenerator<V extends ArrayList<T>, T> extends RandomAbstractListGenerator<V, T> {
 
-    public RandomArrayListGenerator(final Generator generator) {
-        this.generator = generator;
+    public RandomArrayListGenerator(final Class<T> type) {
+       super(type);
     }
 
     private V generate(final long size) {
