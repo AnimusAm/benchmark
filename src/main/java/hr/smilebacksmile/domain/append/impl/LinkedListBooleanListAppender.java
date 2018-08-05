@@ -13,8 +13,8 @@ import java.util.List;
 
 public class LinkedListBooleanListAppender extends AbstractListAppender<Boolean> {
 
-    public LinkedListBooleanListAppender(final Class<?> type){
-        this.listGenerator = RandomListFactory.make(LinkedList.class, type);
+    public LinkedListBooleanListAppender(){
+        this.listGenerator = RandomListFactory.make(LinkedList.class, Boolean.class);
         this.innerList = new LinkedList<>();
     }
 

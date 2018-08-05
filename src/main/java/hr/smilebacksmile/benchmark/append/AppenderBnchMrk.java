@@ -34,12 +34,12 @@ public class AppenderBnchMrk implements InvokableBenchmark {
     @Override
     public void runBenchmark() {
 
-        final ArrayListBooleanListAppender arrayListBooleanAppender = new ArrayListBooleanListAppender(Boolean.class);
+        final ArrayListBooleanListAppender arrayListBooleanAppender = new ArrayListBooleanListAppender();
         final List<Boolean> arrayList = arrayListBooleanAppender.generateList(100000);
         arrayListBooleanAppender.setList(arrayList);
 
 
-        final LinkedListBooleanListAppender linkedListBooleanAppender = new LinkedListBooleanListAppender(Boolean.class);
+        final LinkedListBooleanListAppender linkedListBooleanAppender = new LinkedListBooleanListAppender();
         final List<Boolean> linkedList = linkedListBooleanAppender.generateList(100000);
         linkedListBooleanAppender.setList(linkedList);
     }

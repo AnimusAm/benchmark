@@ -12,8 +12,8 @@ import java.util.List;
 
 public class ArrayListBooleanListAppender extends AbstractListAppender<Boolean> {
 
-    public ArrayListBooleanListAppender(final Class<?> type){
-        this.listGenerator = RandomListFactory.make(ArrayList.class, type);
+    public ArrayListBooleanListAppender(){
+        this.listGenerator = RandomListFactory.make(ArrayList.class, Boolean.class);
         this.innerList = new ArrayList<>();
     }
 

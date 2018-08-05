@@ -6,6 +6,7 @@
     <option name="delegateToJavac" value="true" />
   </component>
   <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
     <option name="BUILD_PROCESS_HEAP_SIZE" value="2048" />
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
